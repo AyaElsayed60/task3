@@ -1,0 +1,9 @@
+
+main{
+  width: 30%;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(43, 37, 37);
+  border-radius: 10px;
+}
